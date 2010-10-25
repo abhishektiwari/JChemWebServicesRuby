@@ -1,0 +1,25 @@
+== JChemWebServicesRuby
+
+JChem Web Services In Ruby
+
+== Dependencies
+
+* JRuby 1.5+
+* hpricot
+* hpricot
+* savon
+
+
+
+
+== Help & Documentation
+For more information about installing, running and configuring JChemWebServicesRuby
+including a list of known issues and troubleshooting information, 
+refer to: http://wiki.github.com/abhishektiwari/JChemWebServicesRuby/
+
+
+== Authors and copyright
+© 2010 Abhishek Tiwari (abhishek@abhishek-tiwari.com)
+
+The software included in this package is copyrighted freeware
+distributed under the terms and conditions as specified in file LICENSE.
